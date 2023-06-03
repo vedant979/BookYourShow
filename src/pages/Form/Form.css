@@ -102,6 +102,8 @@
 }
 .para-text{
     margin: 0;
+    font-family: monospace;
+    font-size: 15px;
 }
 @media (width<=800px){
     .elem-container{
